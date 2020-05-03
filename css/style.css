@@ -24,6 +24,10 @@ p {
   line-height: 2rem;
 }
 
+.sidenav-trigger {
+    color: #FE5F55;
+}
+
 nav ul a {
   font-family: 'Ubuntu', sans-serif;
   color: #FE5F55;
