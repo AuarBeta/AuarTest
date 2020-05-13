@@ -74,6 +74,15 @@ nav ul a {
     padding: 0 10px;
   }
 
+  .video-container iframe,
+  .video-container object,
+  .video-container embed {
+    left: 0;
+    position: absolute;
+    top: 0;
+  }
+
+
 }
 .col-servizio {
   margin-top: 60px;
